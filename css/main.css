@@ -530,17 +530,17 @@ About
 
 /* Hero */
 .hero-area h1 {
-  width: 100%;
+  width: 50%;
 }
 
 /* Aside */
 aside .content-wrapper {
-  justify-content: center;
+  justify-content: space-around;
 }
 
 aside .content-wrapper .form-description,
 aside .content-wrapper .form {
-  width: 100%;
+  width: 40%;
 }
 
 /* Features */
@@ -554,7 +554,7 @@ aside .content-wrapper .form {
 
 /* Reviews */
 .reviews article div {
-  width: 100%;
+  width: 42%;
 }
 
 /* ==========================================================================
@@ -562,7 +562,7 @@ About Page
 ========================================================================== */
 .mission h2,
 .contact-section .content-wrapper h2 {
-  width: 50%;
+  width: 95%;
 }
 
 /* ==========================================================================
